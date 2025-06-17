@@ -1,0 +1,1 @@
+# Azure-inicia-webStatic
